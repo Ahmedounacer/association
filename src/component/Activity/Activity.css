@@ -1,0 +1,28 @@
+
+.activity{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.imgs{
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+    gap: 20px;width: 80%;
+    place-items: center;
+    grid-gap: 20px;
+}
+.imgs img{
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.headType{
+    display: flex;
+    justify-content: end;
+}
+.css-o4b71y-MuiAccordionSummary-content{
+    justify-content: space-around;
+}

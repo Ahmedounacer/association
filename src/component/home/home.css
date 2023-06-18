@@ -1,0 +1,23 @@
+.home{
+    width: 100%;
+    height: 90vh;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.home .left h1{
+    margin-bottom: 10px;
+}
+.home .left button{
+    width: 100px;
+    padding: 7px 9px;
+    background-color: azure;
+    border-radius: 8px;
+
+}
+.home .right img{
+    width: 674px;
+    height: 424px;
+}

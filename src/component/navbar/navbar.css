@@ -1,0 +1,28 @@
+.navbar
+{
+    display: flex;
+height: 70px;
+width: 100%;
+background-color: antiquewhite;
+align-items: center;
+justify-content: space-around;
+}
+.logo img{
+    width: 90px;
+    height: 60px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.headers{
+    display: flex;
+    list-style: none;
+    gap: 12px;
+
+}
+
+ul li a{
+    text-decoration: none;
+    
+}
