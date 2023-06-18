@@ -1,6 +1,7 @@
 
 .activity{
     display: flex;
+    background-color: #D0F5BE;
     flex-direction: column;
     justify-content: center;
     align-items: center;

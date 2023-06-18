@@ -2,3 +2,33 @@
   margin: 0;
   padding: 0;
 }
+.navbar
+{
+  display: flex;
+height: 100px;
+width: 100%;
+background-color: #79E0EE;
+align-items: center;
+justify-content: space-around;
+margin-bottom: 10px;
+}
+.logo img{
+    width: 90px;
+    height: 60px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.headers{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+  
+
+}
+
+ul li a{
+    text-decoration: none;
+    
+}
