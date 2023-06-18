@@ -10,7 +10,7 @@ function Navbar() {
          </div>
 
     <ul className='headers'>
-        <li><a href="#">Acceuil</a></li>
+        <li><a href="#">AcceuilAcceuil</a></li>
         <li><a href="#">Activités</a></li>
         <li><a href="#">A propos</a></li>
         <li><a href="#">Contact</a></li>
